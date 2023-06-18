@@ -49,11 +49,11 @@ Routeviser uygulaması, Turistik bir bölgeye gelen turistlere ve orada yaşayan
 - **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. 
 
 - **Sprint board update**: Sprint board screenshotları: 
-  ![Backlog 1](https://github.com/itsdemiremre/GoogleOUA-F11-Bootcamp2023/ProjectManagement/Sprint1Documents/backlog1.png) 
+  ![Backlog 1](https://github.com/itsdemiremre/GoogleOUA-F11-Bootcamp2023/blob/main/ProjectManagement/Sprint1Documents/backlog1.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/itsdemiremre/GoogleOUA-F11-Bootcamp2023/ProjectManagement/Sprint1Documents/product1.png)
-  ![Screenshot 2]( https://github.com/itsdemiremre/GoogleOUA-F11-Bootcamp2023/ProjectManagement/Sprint1Documents/product2.png)
+  ![Screenshot 1](https://github.com/itsdemiremre/GoogleOUA-F11-Bootcamp2023/blob/main/ProjectManagement/Sprint1Documents/product1.png)
+  ![Screenshot 2](https://github.com/itsdemiremre/GoogleOUA-F11-Bootcamp2023/blob/main/ProjectManagement/Sprint1Documents/product2.png)
 - **Sprint Review**: 
 Alınan kararlar: Base UI tasarımı Figmada oluşturulmuş bazı sayfalar kodlanmıştır, Uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Emre Demir, Zeliş Yıldırım, Sueda Nur Önder.
 
