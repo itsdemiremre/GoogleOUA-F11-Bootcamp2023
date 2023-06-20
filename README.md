@@ -9,7 +9,7 @@ Flutter Eleven
 - Sueda Nur Önder: Product Owner - Developer
 - Emre Demir: Developer
 - Alperen Köse: Developer
-- Emine Çankaya : Developer
+- Emine Çankaya : Aktif Olmayan Üye
 ## Ürün İsmi
 
 # Routeviser
