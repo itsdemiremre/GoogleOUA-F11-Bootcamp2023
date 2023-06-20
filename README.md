@@ -51,7 +51,7 @@ Kullanıcılar, bir şehir seçerek o şehir için gezi planı oluşturabilirler
 
 - **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken kişi bazlı görevler sprint toplantılarımızda belirlendi ve takım üyelerinin müsait oldukları zaman dilimlerine göre tamamlamaları bekleniyor.
 
-- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden duyurulup Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprin1 Daily Scrum Chats](https://docs.google.com/document/d/1OaLvPVnCO9q7G5xkwcPCP1RPMeWVIfgRKQ4q4lsm6Wg/)
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden duyurulup Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint1 Daily Scrum Chats](https://docs.google.com/document/d/1OaLvPVnCO9q7G5xkwcPCP1RPMeWVIfgRKQ4q4lsm6Wg/)
 
 - **Sprint board update**: Sprint board ekran görüntüsü: 
   ![Backlog 1](https://github.com/itsdemiremre/GoogleOUA-F11-Bootcamp2023/blob/main/ProjectManagement/Sprint1Documents/backlog1.png)
