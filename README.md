@@ -81,17 +81,15 @@ Alınan kararlar: Bir referans noktası sunacak olan base UI tasarımı Figmada 
 - **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden duyurulup Discord üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint2 Daily Scrum Chats]()
 
 - **Sprint board update**: Sprint board ekran görüntüsü: 
-  ![Backlog 1](https://github.com/itsdemiremre/GoogleOUA-F11-Bootcamp2023/blob/main/ProjectManagement/Sprint1Documents/product1.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot]()
+  ![Screenshot](https://github.com/itsdemiremre/GoogleOUA-F11-Bootcamp2023/blob/main/ProjectManagement/Sprint2Documents/productV2_1.png)
   
 - **Sprint Review**: 
 Alınan kararlar: Bir referans noktası sunacak olan base UI tasarımı Figmada oluşturulmuş, bazı sayfalar kodlanmaya başlanmıştır. Uygulama için veritabanı olarak Firebase servislerinden Auth aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Emre Demir, Zeliş Yıldırım, Sueda Nur Önder.
 
 - **Sprint Retrospective:**
   - Takım üyelerinin gelecek sprintlerde daha aktif olması gerektiğine vurgu yapılmıştır.
-
 ---
 
 ## Product Backlog URL
