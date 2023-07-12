@@ -81,7 +81,7 @@ Alınan kararlar: Bir referans noktası sunacak olan base UI tasarımı Figmada 
 - **Daily Scrum**: Daily Scrum toplantılarımız müsaitlik ve yoğunluk sebeplerinden ötürü çoğu zaman Whatsapp üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de paylaşılacaktır: [Sprint2 Daily Scrum Chats]()
 
 - **Sprint board update**: Sprint board ekran görüntüsü: 
-
+  ![Screenshot](https://github.com/itsdemiremre/GoogleOUA-F11-Bootcamp2023/blob/main/ProjectManagement/Sprint2Documents/backlogV2_1.png)
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot](https://github.com/itsdemiremre/GoogleOUA-F11-Bootcamp2023/blob/main/ProjectManagement/Sprint2Documents/productV2_1.png)
   
@@ -94,4 +94,8 @@ Alınan kararlar: Kullanıcı temel sayfaların arayüzlerinin bir kısmı kodla
 
 ## Product Backlog URL
 [Flutter Team Eleven Miro Backlog Board](https://miro.com/app/board/uXjVM9sDRfM=/)
+---
+
+# Sprint 3
+[Uygulamamızı pivot ettiğimiz için geçtiğimiz yeni repoda 3.sprint mevcut. Gitmek için tıklayın](https://github.com/itsdemiremre/F11-Bootcamp-PizzaApp#readme)
 ---
